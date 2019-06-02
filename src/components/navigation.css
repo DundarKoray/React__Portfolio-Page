@@ -1,0 +1,44 @@
+nav {
+    font-family: "Montserrat";
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+ 
+.nav__picture-me {
+    text-align: right;
+    margin: 35px;
+    height: 90px;
+    width: auto;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+
+  .nav__list {
+    list-style: none;
+  }
+  
+  .nav__list-item{
+    display: inline-block;
+    margin-left: 25px;
+  }
+  
+  .nav__link {
+    text-decoration: none;
+    padding: 1px 15px;
+    color: #fff;
+    font-size: 140%;
+  }
+  
+
+  
+  .nav__link:hover {
+    color: #4ab19a;
+    transition: all 0.2s;
+  }
+  
+ 

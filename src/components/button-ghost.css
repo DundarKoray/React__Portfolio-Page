@@ -1,0 +1,13 @@
+.button-ghost {
+    padding: 10px 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 1px solid #4ab19a;
+  }
+  
+  .button-ghost:hover {
+    background-color: #4ab19a;
+  }

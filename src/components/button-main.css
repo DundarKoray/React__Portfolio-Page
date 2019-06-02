@@ -1,0 +1,13 @@
+.button-main {
+    padding: 10px 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: #4ab19a;
+  }
+
+  .button-main:hover {
+    background-color: #368170;
+  }
