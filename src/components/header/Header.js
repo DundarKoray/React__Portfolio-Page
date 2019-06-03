@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import './header.css'
-import heroImage from '../assets/hero.jpg'
-import headerData from '../data/headerData'
-import Navigation from './Navigation'
-import ButtonMain from './ButtonMain'
-import ButtonGhost from './ButtonGhost'
+import heroImage from '../../assets/hero.jpg'
+import headerData from './headerData'
+import Navigation from '../navigation/Navigation'
+import ButtonMain from '../buttons/button-full/ButtonMain'
+import ButtonGhost from '../buttons/button-ghost/ButtonGhost'
 
 class Header extends Component {
   render() {

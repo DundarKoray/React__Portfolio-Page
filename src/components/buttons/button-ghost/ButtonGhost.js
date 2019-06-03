@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../components/button-ghost.css'
+import './button-ghost.css'
 
 class ButtonGhost extends Component {
     render() {
